@@ -1,3 +1,5 @@
+# JSON:API v1.0
+
 # Content Negotiation
 ## Client Responsibilities
   * [ ] Clients MUST send all JSON:API data in request documents with the header Content-Type: application/vnd.api+json without any media type parameters.
